@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11801.241 oobstable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaudeUsageTray", "ClaudeUsageTray.csproj", "{4B1B0694-D609-7E54-E698-71C3A2A19BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B1B0694-D609-7E54-E698-71C3A2A19BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B1B0694-D609-7E54-E698-71C3A2A19BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B1B0694-D609-7E54-E698-71C3A2A19BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B1B0694-D609-7E54-E698-71C3A2A19BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49AFAE78-F9C5-481C-9480-4935AAC52D09}
+	EndGlobalSection
+EndGlobal
